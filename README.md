@@ -1,5 +1,7 @@
 "# AuthApp" 
+
 User Journey:
+Figma link: https://www.figma.com/file/b98fEl5rWjvUtM5TddUGKi/Untitled?type=design&node-id=0%3A1&mode=design&t=rT7Ry91srH5j16ED-1
 When app launches, user can either 
 1) log in with existing account (calling the /authenticate endpoint, Authenticate API) before proceeding to dashboard page OR
 2) Sign up (calling the /api/user/onboard endpoint, Onboard API)
