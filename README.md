@@ -2,7 +2,7 @@
 User Journey:
 When app launches, user can either 
 1) log in with existing account (calling the /authenticate endpoint, Authenticate API) before proceeding to dashboard page OR
-2) Sign up (calling the api/user/onboard endpoint, Onboard API)
+2) Sign up (calling the /api/user/onboard endpoint, Onboard API)
 
 In the dashboard page, depending on the user's Role (USER/ADMIN), they can see 2 (Change Password, Update Profile) or 3 buttons (Change Password, Update Profile, Reset Password) respectively. Clicking on the chosen button will lead to opening of each respective page with their own flows. 
 
