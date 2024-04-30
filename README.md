@@ -15,4 +15,5 @@ User with Role of 'USER' can either
 2) Update Profile (calling the /api/profile/update endpoint, Update Profile API)
    
 while 'ADMIN's can have an additional function of 
+
 3) Reset Password (calling the /api/password/reset endpoint, Reset Password API)
